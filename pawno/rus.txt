@@ -1,0 +1,4 @@
+D:\samp03\gamemodes\lova.pwn(32) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "InitFly"
+D:\samp03\gamemodes\lova.pwn(239) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "_RenderBar"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
