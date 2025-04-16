@@ -1,1 +1,36 @@
-Lova battleground GAMEMODE v1.0
+# 🔫 GM Samp Battle Ground
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+
+**GM Samp Battle Ground** adalah mode game seru berbasis SA:MP (San Andreas Multiplayer) yang mengusung konsep pertempuran ala battle royale. Cocok buat server komunitas yang pengen nuansa kompetitif, cepat, dan intens!
+
+---
+
+## 🎮 Fitur Unggulan
+
+✅ Sistem zona aman (Safe Zone) otomatis  
+✅ Supply Drop & Random Weapon Spawn  
+✅ Custom UI Kill Feed dan Status Player  
+✅ Sistem spectate & auto-revive  
+✅ Event mode: Solo / Squad  
+✅ Anti-cheat basic & command protection  
+✅ Optimized performance untuk 50+ pemain
+
+---
+
+## 🖼️ Preview
+
+![Preview](https://your-image-url.com/preview.gif)
+
+> Gambar di atas adalah cuplikan gameplay saat zona mengecil dan supply drop diturunkan.
+
+---
+
+## 🛠️ Instalasi
+   ```bash
+  https://github.com/Rendi789R/samp03.git
+  cd samp03
+  chmod +x samp03svr
+  ./samp03svr
